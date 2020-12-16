@@ -1,0 +1,16 @@
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\RGVS.exe.config
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\RGVS.exe
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\RGVS.pdb
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\white\source\repos\RGVS\RGVS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.csprojAssemblyReference.cache
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.Form1.resources
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.Properties.Resources.resources
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.csproj.GenerateResource.cache
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.csproj.CopyComplete
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.exe
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.pdb
+C:\Users\white\source\repos\RGVS\RGVS\obj\Debug\RGVS.BiggerView.resources
